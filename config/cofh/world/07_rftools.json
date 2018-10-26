@@ -1,0 +1,79 @@
+{
+  "dependencies": "draconicevolution",
+  "populate": {
+    "dimensional_shard_ore_overworld": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "rftools:dimensional_shard_ore",
+          "properties": {
+            "oretype": "overworld"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 8,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "dimensional_shard_ore_nether": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "rftools:dimensional_shard_ore",
+          "properties": {
+            "oretype": "nether"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 10,
+      "max-height": 118,
+      "retrogen": false,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [{
+          "type": "dictionary",
+          "entry": "NETHER"
+        }]
+      },
+      "dimension": "all"
+    },
+    "dimensional_shard_ore_end": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "rftools:dimensional_shard_ore",
+          "properties": {
+            "oretype": "end"
+          }
+        },
+        "material": "minecraft:end_stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 10,
+      "max-height": 80,
+      "retrogen": false,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [{
+          "type": "dictionary",
+          "entry": "END"
+        }]
+      },
+      "dimension": "all"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": "ic2",
+  "populate": {
+    "uranium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "ic2:resource",
+          "properties": {
+            "type": "uranium_ore"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "rubber_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "ic2:leaves"
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "ic2:rubber_wood"
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

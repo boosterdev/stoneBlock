@@ -28,18 +28,13 @@ mods.jei.JEI.removeAndHide(<notenoughwands:protection_wand>);
 mods.jei.JEI.removeAndHide(<excompressum:uncompressed_coal>);
 mods.jei.JEI.removeAndHide(<ceramics:unfired_clay:4>);
 
+//ProjectE
+mods.jei.JEI.removeAndHide(<projecte:item.pe_harvest_god>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_time_watch>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_gem_density>);
+
 //IC2
 mods.jei.JEI.removeAndHide(<ic2:te:82>);
-
-//Emerald armor
-mods.jei.JEI.removeAndHide(<actuallyadditions:item_helm_emerald>);
-mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_helmet>);
-mods.jei.JEI.removeAndHide(<actuallyadditions:item_chest_emerald>);
-mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_chestplate>);
-mods.jei.JEI.removeAndHide(<actuallyadditions:item_pants_emerald>);
-mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_leggings>);
-mods.jei.JEI.removeAndHide(<actuallyadditions:item_boots_emerald>);
-mods.jei.JEI.removeAndHide(<cyclicmagic:emerald_boots>);
 
 //remove AE2 disabled item
 mods.jei.JEI.removeAndHide(<appliedenergistics2:material:40>);

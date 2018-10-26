@@ -1,0 +1,47 @@
+{
+  "dependencies": "thaumcraft",
+  "populate": {
+    "ore_amber": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "thaumcraft:ore_amber",
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "ore_quartz": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "thaumcraft:ore_quartz",
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 12,
+      "max-height": 36,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

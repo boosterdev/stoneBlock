@@ -1,0 +1,1204 @@
+{
+  "spawnrate": {
+    "seed_oil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_residue": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "dark_steel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "construction_alloy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "brine": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "manyullyn": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "mirion": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "elementium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "purpleslime": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "evilcraftpoison": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_dense": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "lifeessence": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "invar": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "supremium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "yellorium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_heavy_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "milk": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "crude_oil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_distilled": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_heavy_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "bronze": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2distilled_water": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_heavy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "liquid_death": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "redstone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "aerotheum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "liquid_fertilizer": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2hydrogen": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "essence": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "aluminum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "liquid_sunshine": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "clay": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "cloud_seed_concentrated": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "gold": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "prudentium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "copper": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "potion_lingering": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2construction_foam": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "electrum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "antimony": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "poison": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refinedcanolaoil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "formic_acid": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "blood": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "alubrass": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_gaseous_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "mana": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_gaseous_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "if.ore_fluid_fermented": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "infinity": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refined_biofuel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "sewage": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2superheated_steam": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "xpjuice": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_residue_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "dawnstone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_residue_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fire_water": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "knightslime": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2biomass": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_light": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "latex": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "menrilresin": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "pigiron": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "soulium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "tin": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refinedglowstone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "empoweredoil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ardite": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "terrasteel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "glass": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "obsidian": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2oxygen": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_light_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_light_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_distilled_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "vapor_of_levity": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_distilled_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ender_distillation": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "soularium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "base_essence": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "mushroom_stew": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "emerald": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "witchwater": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "heavywater": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "iridium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "lumium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "lava": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "honey": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "xu_evil_metal": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "if.protein": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "anti_venom": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2hot_coolant": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2heavy_water": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "nickel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2pahoehoe_lava": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "potion": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "alchemical_redstone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "plantoil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "osmium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "syrup": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "stone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "purifying_fluid": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "conductive_iron": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "iron": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "aetherworks.aetherium_gas": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "petrotheum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_heavy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "potion_splash": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "redstone_alloy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ender": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "cloud_seed": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "glowstone": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refined_fuel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "tree_oil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "zinc": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "biodiesel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "biofuel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "superium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "intermedium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_dense_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_dense_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "end_steel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "valkyrie": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_light_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_light_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "rocket_fuel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "vibrant_alloy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "silver": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2uu_matter": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "liquidlithium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "if.pink_slime": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "steel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "xu_demonic_metal": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2weed_ex": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "cobalt": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2air": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "gravitite": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "psimetal": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ethanol": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refined_oil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "hootch": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "xu_enchanted_metal": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "pyrotheum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "pulsating_iron": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "thaumium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "biocrude": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "constantan": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "lead": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2hot_water": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "osmiridium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "beetle_juice": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "liquidchorus": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_light": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2biogas": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "electrical_steel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_dense": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_heavy_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_mixed_heavy_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "experience": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "osgloglas": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "platinum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "manasteel": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "cyanite": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "alumite": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "cryotheum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "inferium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "dirt": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "brass": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "water": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "vasholine": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "resin": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2steam": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "coal": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "uranium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "sugar": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "canolaoil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "concrete": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "aetherworks.impure_aetherium_gas": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_dense_heat_2": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "refinedobsidian": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "energetic_alloy": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "enderium": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "signalum": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "steam": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "oil_dense_heat_1": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "evilcraftblood": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "if.ore_fluid_raw": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "creosote": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "sludge": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "sap": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "blueslime": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "crystaloil": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "nutrient_distillation": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "ic2coolant": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "meat": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    },
+    "fuel_gaseous": {
+      "rate": 100,
+      "spawn": true,
+      "world_cooldown": 4000,
+      "stall_cooldown": 4000
+    }
+  }
+}

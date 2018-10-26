@@ -1,0 +1,15 @@
+{
+  "active_render": true,
+  "clear_list_chance": 70,
+  "add_to_list_chance": 15,
+  "disable_asm": true,
+  "drops": [
+    {
+      "block": "minecraft:stone:0",
+      "drop_with": "exnihilocreatio:item_pebble:0:4",
+      "drop_without": "exnihilocreatio:item_pebble:0:2",
+      "chance": 5,
+      "speed": 3.5
+    }
+  ]
+}

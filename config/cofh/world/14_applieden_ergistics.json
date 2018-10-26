@@ -1,0 +1,32 @@
+{
+  "dependencies": "appliedenergistics2",
+  "populate": {
+    "certuz_quartz_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [{
+            "name": "appliedenergistics2:quartz_ore",
+            "weight": 95
+          },
+          {
+            "name": "appliedenergistics2:charged_quartz_ore",
+            "weight": 5
+          }
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 24,
+      "max-height": 48,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

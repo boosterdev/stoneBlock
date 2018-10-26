@@ -1,0 +1,26 @@
+{
+  "dependencies": "iskalliumreactors",
+  "populate": {
+    "iskallium_stone_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "iskalliumreactors:iskallium_stone_ore",
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 60,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

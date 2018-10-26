@@ -1,0 +1,33 @@
+{
+  "dependencies": "randomthings",
+  "populate": {
+    "spectre_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "randomthings:spectreleaf",
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "randomthings:spectrelog",
+          "properties": {
+            "axis": "y"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

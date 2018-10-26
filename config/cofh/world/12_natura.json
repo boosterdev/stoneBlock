@@ -1,0 +1,222 @@
+{
+  "dependencies": "natura",
+  "populate": {
+    "silverbell_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves",
+          "properties": {
+            "type": "silverbell"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs",
+          "properties": {
+            "type": "silverbell"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "amaranth_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves",
+          "properties": {
+            "type": "amaranth"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs",
+          "properties": {
+            "type": "amaranth"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "tiger_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves",
+          "properties": {
+            "type": "tiger"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs",
+          "properties": {
+            "type": "tiger"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "maple_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves",
+          "properties": {
+            "type": "maple"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs",
+          "properties": {
+            "type": "maple"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "willow_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves2",
+          "properties": {
+            "type": "willow"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs2",
+          "properties": {
+            "type": "willow"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "hopseed_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves2",
+          "properties": {
+            "type": "hopseed"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs2",
+          "properties": {
+            "type": "hopseed"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "sakura_tree": {
+      "distribution": "decoration",
+      "generator": {
+        "type": "small-tree",
+        "leaves": {
+          "name": "natura:overworld_leaves2",
+          "properties": {
+            "type": "sakura"
+          }
+        },
+        "minHeight": 10,
+        "heightVariance": 5,
+        "block": {
+          "name": "natura:overworld_logs2",
+          "properties": {
+            "type": "sakura"
+          }
+        }
+      },
+      "cluster-count": 1,
+      "chunkChance": 1,
+      "in-village": "false",
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

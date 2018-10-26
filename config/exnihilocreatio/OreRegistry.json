@@ -1,133 +1,69 @@
-[{
-		"name": "gold",
-		"color": {
-			"r": 1.0,
-			"g": 1.0,
-			"b": 0.0,
-			"a": 1.0
-		},
-		"result": {
-			"name": "minecraft:gold_ingot",
-			"meta": 0
-		}
-	},
-	{
-		"name": "iron",
-		"color": {
-			"r": 0.7490196,
-			"g": 0.5019608,
-			"b": 0.2509804,
-			"a": 1.0
-		},
-		"result": {
-			"name": "minecraft:iron_ingot",
-			"meta": 0
-		}
-	},
-	{
-		"name": "copper",
-		"color": {
-			"r": 1.0,
-			"g": 0.6,
-			"b": 0.2,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "tin",
-		"color": {
-			"r": 0.9019608,
-			"g": 1.0,
-			"b": 0.9490196,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "aluminium",
-		"color": {
-			"r": 0.7490196,
-			"g": 0.7490196,
-			"b": 0.7490196,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "lead",
-		"color": {
-			"r": 0.2,
-			"g": 0.0,
-			"b": 0.4,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "silver",
-		"color": {
-			"r": 0.9490196,
-			"g": 0.9490196,
-			"b": 0.9490196,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "nickel",
-		"color": {
-			"r": 1.0,
-			"g": 1.0,
-			"b": 0.8,
-			"a": 1.0
-		}
-	},
-	{
-		"name": "ardite",
-		"color": {
-			"r": 1.0,
-			"g": 0.45882353,
-			"b": 0.101960786,
-			"a": 1.0
-		},
-		"result": {
-			"name": "tconstruct:ingots",
-			"meta": 1
-		}
-	},
-	{
-		"name": "cobalt",
-		"color": {
-			"r": 0.2,
-			"g": 0.2,
-			"b": 1.0,
-			"a": 1.0
-		},
-		"result": {
-			"name": "tconstruct:ingots",
-			"meta": 0
-		}
-	},
-	{
-		"name": "apatite",
-		"color": {
-			"r": 1.0,
-			"g": 1.0,
-			"b": 0.8,
-			"a": 1.0
-		},
-		"result": {
-			"name": "forestry:apatite",
-			"meta": 1
-		}
-	},
-	{
-		"name": "osmium",
-		"color": {
-			"r": 1.0,
-			"g": 1.0,
-			"b": 0.8,
-			"a": 1.0
-		},
-		"result": {
-			"name": "mekanism:ingot",
-			"meta": 1
-		}
-	}
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "result": "minecraft:gold_ingot:-1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "result": "minecraft:iron_ingot:-1"
+  },
+  {
+    "name": "copper",
+    "color": "ff9933"
+  },
+  {
+    "name": "tin",
+    "color": "e6fff2"
+  },
+  {
+    "name": "aluminium",
+    "color": "bfbfbf"
+  },
+  {
+    "name": "lead",
+    "color": "330066"
+  },
+  {
+    "name": "silver",
+    "color": "f2f2f2"
+  },
+  {
+    "name": "nickel",
+    "color": "ffffcc"
+  },
+  {
+    "name": "uranium",
+    "color": "4e5b43"
+  },
+  {
+    "name": "ardite",
+    "color": "ff751a",
+    "result": "tconstruct:ingots:1"
+  },
+  {
+    "name": "cobalt",
+    "color": "3333ff",
+    "result": "tconstruct:ingots:0"
+  },
+  {
+    "name": "osmium",
+    "color": "bbddff"
+  },
+  {
+    "name": "yellorium",
+    "color": "dcf400",
+    "result": "bigreactors:ingotmetals:0"
+  },
+  {
+    "name": "aluminum",
+    "color": "cdcdcf",
+    "result": "thermalfoundation:material:132"
+  },
+  {
+    "name": "platinum",
+    "color": "d7dfe7",
+    "result": "thermalfoundation:material:134"
+  }
 ]

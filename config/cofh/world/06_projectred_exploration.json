@@ -1,0 +1,101 @@
+{
+  "dependencies": "projectred-exploration",
+  "populate": {
+    "electrotine": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "projectred-exploration:ore",
+          "properties": {
+            "type": "electrotine_ore"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "sapphire": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "projectred-exploration:ore",
+          "properties": {
+            "type": "sapphire_ore"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "peridot": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "projectred-exploration:ore",
+          "properties": {
+            "type": "peridot_ore"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    },
+    "ruby": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "projectred-exploration:ore",
+          "properties": {
+            "type": "ruby_ore"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 20
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -6
+        ]
+      }
+    }
+  }
+}

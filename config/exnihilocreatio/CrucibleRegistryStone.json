@@ -1,17 +1,29 @@
 {
-  "minecraft:cobblestone:0": {
+  "ore:obsidian": {
+    "fluid": "lava",
+    "amount": 1000
+  },
+  "ore:stone": {
     "fluid": "lava",
     "amount": 250
   },
-  "minecraft:stone:1": {
+  "ore:sand": {
     "fluid": "lava",
-    "amount": 250
+    "amount": 100
   },
-  "minecraft:stone:3": {
+  "ore:gravel": {
     "fluid": "lava",
-    "amount": 250
+    "amount": 200
   },
-  "minecraft:stone:5": {
+  "exnihilocreatio:block_dust:0": {
+    "fluid": "lava",
+    "amount": 50
+  },
+  "ore:netherrack": {
+    "fluid": "lava",
+    "amount": 1000
+  },
+  "ore:cobblestone": {
     "fluid": "lava",
     "amount": 250
   }
