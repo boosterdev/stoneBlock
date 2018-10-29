@@ -54,17 +54,6 @@
           "weight": 1,
           "items": [
             {
-              "id": "chancecubes:chance_cube",
-              "Count": 7,
-              "OreDict": "",
-              "Damage": 0
-            }
-          ]
-        },
-        {
-          "weight": 1,
-          "items": [
-            {
               "id": "minecraft:stone",
               "Count": 16,
               "OreDict": "",
@@ -185,17 +174,6 @@
             {
               "id": "randomthings:naturecore",
               "Count": 9,
-              "OreDict": "",
-              "Damage": 0
-            }
-          ]
-        },
-        {
-          "weight": 1,
-          "items": [
-            {
-              "id": "chancecubes:compact_giant_chance_cube",
-              "Count": 7,
               "OreDict": "",
               "Damage": 0
             }
@@ -578,17 +556,6 @@
           "weight": 1,
           "items": [
             {
-              "id": "chancecubes:chance_pendant_tier3",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 0
-            }
-          ]
-        },
-        {
-          "weight": 1,
-          "items": [
-            {
               "id": "botania:exchangerod",
               "Count": 1,
               "OreDict": "",
@@ -675,17 +642,6 @@
           "items": [
             {
               "id": "draconicevolution:draconic_block",
-              "Count": 1,
-              "OreDict": "",
-              "Damage": 0
-            }
-          ]
-        },
-        {
-          "weight": 1,
-          "items": [
-            {
-              "id": "chancecubes:silk_touch_pendant",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
